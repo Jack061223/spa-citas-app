@@ -28,5 +28,4 @@
 - HU14: Ver citas por cliente.
 
 Jack Ricardo Espinoza Reyes 
-Docente: M.T.E. Margarita Larios C.
  
