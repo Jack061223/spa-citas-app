@@ -1,6 +1,5 @@
 # SPA Citas App
- 
-Este repositorio contiene los archivos base para la App de gestión de citas de clientes del SPA.
+
  
 ## Épicas e Historias de Usuario
  
